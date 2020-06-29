@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+KK2SIorbXegnJ4wE82xkh9/porzWm6KVwg3XNJDbnTjWS5CY+EXfIUm7qzJg+whKr1J0lOhrLbtIutUX+EEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tihanewi\\Downloads\\Yahoo.Finance.Printing\\src\\Yahoo.Finance.Printing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tihanewi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tihanewi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tihanewi\\.nuget\\packages\\timhanewich.csv\\1.0.0\\timhanewich.csv.1.0.0.nupkg.sha512",
+    "C:\\Users\\tihanewi\\.nuget\\packages\\timhanewichtoolkit\\1.0.0\\timhanewichtoolkit.1.0.0.nupkg.sha512",
+    "C:\\Users\\tihanewi\\.nuget\\packages\\yahoo.finance\\3.4.0\\yahoo.finance.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
