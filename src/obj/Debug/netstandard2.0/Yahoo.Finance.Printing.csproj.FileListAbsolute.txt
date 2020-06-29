@@ -1,9 +1,0 @@
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\bin\Debug\netstandard2.0\Yahoo.Finance.Printing.deps.json
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\bin\Debug\netstandard2.0\Yahoo.Finance.Printing.dll
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\bin\Debug\netstandard2.0\Yahoo.Finance.Printing.pdb
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\obj\Debug\netstandard2.0\Yahoo.Finance.Printing.csprojAssemblyReference.cache
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\obj\Debug\netstandard2.0\Yahoo.Finance.Printing.AssemblyInfoInputs.cache
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\obj\Debug\netstandard2.0\Yahoo.Finance.Printing.AssemblyInfo.cs
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\obj\Debug\netstandard2.0\Yahoo.Finance.Printing.csproj.CoreCompileInputs.cache
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\obj\Debug\netstandard2.0\Yahoo.Finance.Printing.dll
-C:\Users\tihanewi\Downloads\Yahoo.Finance.Printing\src\obj\Debug\netstandard2.0\Yahoo.Finance.Printing.pdb
