@@ -2,11 +2,28 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Tim Hanewich</Authors>
+    <Description>Prints Equity arrays as spreadsheets in CSV format.</Description>
+    <Copyright>Tim Hanewich</Copyright>
+    <PackageProjectUrl>https://github.com/TimHanewich/Yahoo.Finance.Printing</PackageProjectUrl>
+    <PackageIcon>YahooLogo.png</PackageIcon>
+    <RepositoryUrl>https://github.com/TimHanewich/Yahoo.Finance.Printing</RepositoryUrl>
+    <PackageTags>yahoo finance,yahoo,finance,equities,stock,investments</PackageTags>
+    <AssemblyVersion>0.0.0.0</AssemblyVersion>
+    <FileVersion>0.0.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="TimHanewich.Csv" Version="1.0.0" />
     <PackageReference Include="Yahoo.Finance" Version="3.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="YahooLogo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

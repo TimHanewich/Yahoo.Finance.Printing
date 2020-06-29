@@ -255,7 +255,7 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\tihanewi\\Downloads\\Yahoo.Finance.Printing\\src\\Yahoo.Finance.Printing.csproj",
       "projectName": "Yahoo.Finance.Printing",
